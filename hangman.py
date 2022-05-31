@@ -1,12 +1,4 @@
-#################################################################
-# FILE : calculate_mathematical_expression
-# WRITER : noam shabat , no.amshabat1 , 206515579
-# EXERCISE : intro2cs2 ex2 2021
-# DESCRIPTION: A simple game of hangman interactive with a player.
-# STUDENTS I DISCUSSED THE EXERCISE WITH:
-# WEB PAGES I USED:
-# NOTES: ...
-#################################################################
+
 import hangman_helper as helper
 
 """
