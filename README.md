@@ -29,7 +29,18 @@
 
 <br>
 <div align="left">
-  <h2 align="left" style="border-bottom: 1px solid gray"></h2>
+  <h2 align="left" style="border-bottom: 1px solid gray">
+    Welcome to the Game Hangman! 
+
+       _    _  
+      | |  | |
+      | |__| | __ _ _ __   __ _ _ __ ___   __ _ _ __
+      |  __  |/ _' | '_ \ / _' | '_ ' _ \ / _' | '_ \ 
+      | |  | | (_| | | | | (_| | | | | | | (_| | | | |
+      |_|  |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
+                           __/ |
+                          |___/ 
+      let's play !!!           </h2>
 
 <br>
 
