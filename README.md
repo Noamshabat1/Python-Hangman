@@ -30,7 +30,7 @@
 <br>
 <div align="left">
   <h2 align="left" style="border-bottom: 1px solid gray">
-    Welcome to the Game Hangman! 
+    Welcome to the Hangman Game! 
 
        _    _  
       | |  | |
