@@ -1,7 +1,8 @@
+
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hebrew_University_Logo.svg/1200px-Hebrew_University_Logo.svg.png" alt="huji-logo" height="150px" />
   <h1 align="center" style="border-bottom: none"><b>Introduction to Computer Science - Exercise 4 - Hangman</b></h1>
-
+</div>
 
 <div align="center">
   <p align="center">
@@ -23,15 +24,16 @@
     <li>Open the cloned project in your IDE</li>
     <li><i>(Optional)</i> Create a virtual environment using <code>python3 -m venv venv</code></li>
     <li>Use <code>pip install -r requirements.txt</code> to install all required libraries</li>
-    <li>run <code>python3 &lt;python file&gt;</code> to run the project</li>
+    <li>Run <code>python3 &lt;python file&gt;</code> to run the project</li>
   </ol>
 </div>
 
 <br>
-<div align="left">
-  <h2 align="left" style="border-bottom: 1px solid gray">
-    Welcome to the Hangman Game! 
 
+<div align="left">
+  <h2 align="left" style="border-bottom: 1px solid gray">Welcome to the Hangman Game!</h2>
+
+<pre>
        _    _  
       | |  | |
       | |__| | __ _ _ __   __ _ _ __ ___   __ _ _ __
@@ -40,14 +42,13 @@
       |_|  |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
                            __/ |
                           |___/
-
-<br>
+</pre>
 
 <div align="left">
   <h2 align="left" style="border-bottom: 1px solid gray">Media</h2>
 
   <div align="left">
-    <img src="./media/1.png" alt="1" width="500px" />
+    <img src="./media/1.png" alt="Hangman Screenshot" width="500px" />
   </div>
 </div>
 
